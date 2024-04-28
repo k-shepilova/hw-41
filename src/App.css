@@ -1,4 +1,4 @@
-.App{
+.App {
   margin: 20px;
 }
 
@@ -8,7 +8,7 @@ form {
   align-items: flex-start;
 }
 
-.col{
+.col {
   margin-bottom: 10px;
 }
 
@@ -17,7 +17,7 @@ label {
   margin-bottom: 5px;
 }
 
-.err{
+.err {
   color: red;
   font-size: 12px;
 }
